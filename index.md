@@ -4,6 +4,7 @@
 
 Read motivation and satisfaction powerpoint and completed analysing task
 
+<img src="./Images/Motivation and satifaction dnd.png" title="PWM_Tutorial_2" width="600"/>
 
 
 ## 1/8/22 Begining game dev
