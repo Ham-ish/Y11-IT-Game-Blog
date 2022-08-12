@@ -1,5 +1,12 @@
 # Y11 IT Game Blog
 
+## 15/8/22
+
+Studied gameplay powerpoint then compiled a gameplay analysis
+
+<img src="./Images/Motivation and satifaction dnd.png" title="PWM_Tutorial_2" width="600"/>
+
+
 ## 8/8/22
 
 Read motivation and satisfaction powerpoint and completed analysing task
