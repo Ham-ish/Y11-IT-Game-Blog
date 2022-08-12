@@ -4,7 +4,7 @@
 
 Studied gameplay powerpoint then compiled a gameplay analysis
 
-<img src="./Images/Motivation and satifaction dnd.png" title="PWM_Tutorial_2" width="600"/>
+<img src="./Images/Dnd gameplay analysis.png" title="PWM_Tutorial_2" width="600"/>
 
 
 ## 8/8/22
