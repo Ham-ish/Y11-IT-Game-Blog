@@ -1,5 +1,10 @@
 # Y11 IT Game Blog
 
+## 22/8/22
+
+Exam week
+no time for blog
+
 ## 15/8/22
 
 Studied gameplay powerpoint then compiled a gameplay analysis
