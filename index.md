@@ -1,5 +1,22 @@
 # Y11 IT Game Blog
 
+## 5/9/22
+
+The Immersion powerpoint from the portal
+
+Looked at immersion powerpoint on portal but did not finish reflection
+
+Flow is the ideal state of a person when playing a game. it has... this creates a deeper connection between the player and the game because it keeps the player "in the game". Immersion is like Flow in that the player keeps themself in the game, but rather than the "Perfect" experiance, it is the closest achievable experiance the player can have with the played.
+
+Starting procedural generation in class next week and need to use World Machine. World Machine cannot run on Mac. I need to find somthing that does the same thing, that i can run, or use a device that can run World Mchine.
+
+Some solutions i have for this are: 
+Dual-booting my computer with Bootcamp
+Running world Machine thorugh WineHQ
+finding a linix computer to bring into class instead
+
+
+
 ## 29/8/22
 
 Exams
