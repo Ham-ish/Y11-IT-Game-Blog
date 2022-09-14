@@ -1,5 +1,13 @@
 # Y11 IT Game Blog
 
+## 12/9/22
+
+**World Machine**
+
+Dual Booted my mac using Bootcamp so that i could run world machine. Understanding the basic functions like the perlin noise generators and combiner functions. Computer restarted and didn't have any saved images, so had to restart, which is why this entry is so late
+
+
+
 ## 5/9/22
 
 **The Immersion powerpoint from the portal**
