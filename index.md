@@ -6,6 +6,9 @@
 
 Dual Booted my mac using Bootcamp so that i could run world machine. Understanding the basic functions like the perlin noise generators and combiner functions. Computer restarted and didn't have any saved images, so had to restart, which is why this entry is so late
 
+The perlin noise generators generate a heightmap for 
+
+The combine function combines 
 
 
 ## 5/9/22
