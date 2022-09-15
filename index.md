@@ -6,9 +6,14 @@
 
 Dual Booted my mac using Bootcamp so that i could run world machine. Understanding the basic functions like the perlin noise generators and combiner functions. Computer restarted and didn't have any saved images, so had to restart, which is why this entry is so late
 
-The perlin noise generators generate a heightmap for 
+The perlin noise generators generate a heightmap for the output
 
-The combine function combines 
+<img src="./Images/World Machine Basic Noise.png" title="World Machine Basic Noise" width="300"/>
+<img src="./Images/World Machine Noise.png" title="World Machine Noise" width="300"/>
+<img src="./Images/World Machine Advanced Noise.png" title="World Machine Advanced Noise" width="300"/>
+
+The combine function combines several heigtmaps or bitmaps
+
 
 
 ## 5/9/22
