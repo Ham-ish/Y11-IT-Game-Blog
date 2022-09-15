@@ -12,7 +12,10 @@ The perlin noise generators generate a heightmap for the output
 <img src="./Images/World Machine Noise.png" title="World Machine Noise" width="300"/>
 <img src="./Images/World Machine Advanced Noise.png" title="World Machine Advanced Noise" width="300"/>
 
-The combine function combines several heigtmaps or bitmaps
+The average combine function combines several heigtmaps or bitmaps by taking the average of the height or colour
+
+<img src="./Images/World machine Combiner code.png" title="World Machine Advanced Noise" width="300"/>
+<img src="./Images/World machine Combiner terrain.png" title="World Machine Advanced Noise" width="300"/>
 
 
 
