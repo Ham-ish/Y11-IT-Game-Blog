@@ -17,7 +17,7 @@ The average combine function combines several heigtmaps or bitmaps by taking the
 <img src="./Images/World machine Combiner code.png" title="World Machine Advanced Noise" width="300"/>
 <img src="./Images/World machine Combiner terrain.png" title="World Machine Advanced Noise" width="300"/>
 
-
+Next week I am going to learn water works 
 
 ## 5/9/22
 
