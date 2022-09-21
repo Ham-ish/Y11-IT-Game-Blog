@@ -1,5 +1,13 @@
 # Y11 IT Game Blog
 
+## 19/9/22
+
+This week I should have nearly finished the Procedural Terrain Generation with World Machine document by using shapes and Layout generators and random generators and also importing heightmap to create realistic terrain.
+
+The trouble is, I have three assignments that I am behind on, and all of my free time has been spent doing that, so i have not finished that.
+
+Next time I have the opportunity to organise my work, I will do so more efficiently, and will not be late and disorganised again
+
 ## 12/9/22
 
 **World Machine**
@@ -17,7 +25,7 @@ The average combine function combines several heigtmaps or bitmaps by taking the
 <img src="./Images/World machine Combiner code.png" title="World Machine Advanced Noise" width="300"/>
 <img src="./Images/World machine Combiner terrain.png" title="World Machine Advanced Noise" width="300"/>
 
-Next week I am going to learn water works 
+Next week I am going to learn how water works 
 
 ## 5/9/22
 
