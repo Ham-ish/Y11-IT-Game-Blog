@@ -4,7 +4,9 @@
 
 This week I should have nearly finished the Procedural Terrain Generation with World Machine document by using shapes and Layout generators and random generators and also importing heightmap to create realistic terrain.
 
-The trouble is, I have three assignments that I am behind on, and all of my free time has been spent doing that, so i have not finished that.
+The generators create a modulated plane that follows some rules, defined by the generators, called a heightmap. The basic terrain veiw uses this Heightmap and adds colour based on altitude.
+
+The trouble is, I have three assignments that I am behind on, and all of my free time has been spent doing that, so i have not done this document apart from playing around with World Machine.
 
 Next time I have the opportunity to organise my work, I will do so more efficiently, and will not be late and disorganised again
 
