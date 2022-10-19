@@ -1,5 +1,23 @@
 # Y11 IT Game Blog
 
+## 17/10/22
+
+This blog is about the last week of Term 3 and the first week of Term 4. I did not do any work in the holidays because I didn't exist.
+
+**Week 9 term 3**
+
+told in vauge terms what the assignment could be, and how to prepare in the holidays
+
+**Week 1 term 4**
+
+Assignment is given
+
+I need to create a landmass in World Machine and then populate it with stuff in unity
+
+I am going to make a plateau. Hurrah
+
+I do not know how that works so further research is necessary.
+
 ## 19/9/22
 
 This week I should have nearly finished the Procedural Terrain Generation with World Machine document by using shapes and Layout generators and random generators and also importing heightmap to create realistic terrain.
