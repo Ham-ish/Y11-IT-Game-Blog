@@ -1,5 +1,16 @@
 # Y11 IT Game Blog
 
+## 24/10/22
+
+Assignment is due quite soon
+I have told myself that since it is somthing that I can do at home, I wouldn't need to do it in class and have subsequently not done it at home or in class.
+
+I should not do this. This is what causes cool assignments to be so late and shoddy.
+
+This frustrates me because I know this assignment would be very fun and would build usefull skills, but is also time consuming, such that by the time I have started, I am already distracted with somthing else
+
+
+
 ## 17/10/22
 
 This blog is about the last week of Term 3 and the first week of Term 4. I did not do any work in the holidays because I didn't exist.
