@@ -1,5 +1,18 @@
 # Y11 IT Game Blog
 
+## 31/10/22
+
+Researched plateaus, the typical surrounding land and how these things are formed so I have an idea of what my project needs to look like. 
+
+My first idea for it was to create a lump, then flatten it at the top, but when I tried that, it didnt look natural at all, so I didnt do it that way.
+
+
+
+Another idea I had was to have a cutoff of a ridge. So I used the gradient function to make a swift, linear decrease, and it did look better, especially when I added some noise, but no matter what angle I put the gradient at, it didnt look quite right. 
+
+I began by creating 
+
+
 ## 24/10/22
 
 Assignment is due quite soon
