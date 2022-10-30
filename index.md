@@ -6,12 +6,29 @@ Researched plateaus, the typical surrounding land and how these things are forme
 
 My first idea for it was to create a lump, then flatten it at the top, but when I tried that, it didnt look natural at all, so I didnt do it that way.
 
-
+<img src="./Images/World machine dome.PNG" title="Plateau idea 1" width="300"/>
+<img src="./Images/World machine dome code.PNG" title="Plateau idea 1 code" width="300"/>
 
 Another idea I had was to have a cutoff of a ridge. So I used the gradient function to make a swift, linear decrease, and it did look better, especially when I added some noise, but no matter what angle I put the gradient at, it didnt look quite right. 
 
-I began by creating 
+<img src="./Images/World machine gradient.PNG" title="Plateau idea 2" height="300"/><img src="./Images/World machine gradient noise.PNG" title="Plateau idea 2 with noise" height="300"/>
 
+<img src="./Images/World machine gradient noise code.PNG" title="Plateau idea 2 code" width="300"/>
+
+
+I couldn't find a way to make a natural looking landmass, and thought I would have to go with one of my inferior ideas, when I stumbled upon my solution.
+
+<img src="./Images/World machine shapes.PNG" title="'Shapes'" width="400"/>
+
+Shapes will sove all of my problems
+
+<img src="./Images/World machine plateau.PNG" title="World Machine Basic Noise" width="350"/>
+
+And so shapes did. I made a polygon and roughened the edges a bit, and it looked exactly as I imagined it in the begining.
+
+**In conclusion:**
+
+I applied iterative idea generation and I have learned not to give up when you feel like there is no solution.
 
 ## 24/10/22
 
