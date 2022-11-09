@@ -1,5 +1,18 @@
 # Y11 IT Game Blog
 
+## 7/11/22
+
+**Big Problem**
+
+The hard drive of my computer has broken, maybe because of water damage, which means that all of the work that is not saved onto the Cloud or Onedrive is lost. This includes all of the progress of the world machine that I had created up untill that point, as well as the planning document. This is a Big Problem. The computer itself will be out of order for the next week while it is fixed, so alternate means will be necessary to regain my progress.
+
+This also means that various other assignments for subjects other than Game Dev will be pushed back, but, since the BSSS doesn't accept computer failure as a reason for non-submission of assesments I am even more snookered. I have been pushed from a state of getting most of my assignments in on time, to questioning wether I can get them in at all. 
+
+To prove I know how World Machine creates worlds, I will describe how my plateau worked. I began with a shape block. I created a polygon and increased the breakup and roughness. I ran it through a erosion and terrace modifier to make it look weathered, then combined it with an inverted path shape to make a river. I was planning to make a road with a brige over the river valley in unity, but didn't get around to doing that.
+
+I thought I had backed up my files by making a copy on my non-virtual machine hard drive, so I was no wary of making backups. I have learned from this experiance that one must always have a fall-back in case of emergency, and to back up my files
+
+
 ## 31/10/22
 
 Researched plateaus, the typical surrounding land and how these things are formed so I have an idea of what my project needs to look like. 
